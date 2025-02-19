@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
   //get the box
   final _myBox = Hive.box("MY_BOX");
 
-  //text controller
+  
   final _textController = TextEditingController();
 
   //list of todos
