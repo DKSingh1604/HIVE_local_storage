@@ -17,7 +17,7 @@ class _HomePageState extends State<HomePage> {
   
   final _textController = TextEditingController();
 
-  //list of todos
+  
   List todos = [];
 
   @override
